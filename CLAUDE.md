@@ -5,6 +5,8 @@
 在 LINE 裡掃洗衣機 QR Code 啟動機台、即時看機台狀態與倒數、洗好時收到 LINE 推播。
 技術：Next.js 16 App Router + TypeScript + Tailwind + Supabase（PostgreSQL、Realtime、pg_cron）+ LINE LIFF + Messaging API，部署在 Vercel。
 學習手冊：`../LINE 自助洗衣專案手冊.md`（18 天計畫、架構、資料表、核心函式、測試、面試問題）。
+GitHub：https://github.com/michael9487/line-liff-laundry（push 到 `main` 會自動部署）
+正式網址：https://line-liff-laundry.vercel.app（LIFF Endpoint URL 用這個）
 
 ## 學習模式（最重要）
 
